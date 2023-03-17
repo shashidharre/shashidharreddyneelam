@@ -1,0 +1,8 @@
+2023-02-26 14:37:47,226 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2023-02-26 14:37:47,236 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'get_value']
+2023-02-26 14:37:47,240 DEBUG    root            Running [gcloud.config.get-value] with arguments: [--format: "json", SECTION/PROPERTY: "project"]
+2023-02-26 14:37:47,241 DEBUG    root            Chosen display Format:value(.) json
+2023-02-26 14:37:47,242 INFO     root            Display format: "value(.) json"
+2023-02-26 14:37:47,243 INFO     ___FILE_ONLY___ "terrafrom-test-368523"
+2023-02-26 14:37:47,243 INFO     ___FILE_ONLY___ 
+
